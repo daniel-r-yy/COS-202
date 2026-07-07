@@ -1,10 +1,10 @@
-# COS 202 – Computer Programming II
+# COS 202
 
 **Python Projects: Scientific Calculator & CGPA Management System**
 
 | Details | Information |
 |---------|-------------|
-| **Student Name** | Jimoh Victor Oluwole |
+| **Student Name** | FASANMI DEMILADE DANIELSON |
 | **Matric Number** | 241203020 |
 | **Department** | Data Science |
 | **Course Code** | COS 202 
