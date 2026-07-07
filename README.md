@@ -105,17 +105,6 @@ COS-202/
 └── README.md
 ```
 
----
-
-## System Requirements
-
-- **Python:** 3.8 or higher
-- **Environment:** Command Prompt, Terminal, or any Python IDE
-  - VS Code
-  - PyCharm
-  - IDLE
-
----
 
 ## Running the Programs
 
