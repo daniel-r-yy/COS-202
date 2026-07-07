@@ -5,7 +5,7 @@
 | Details | Information |
 |---------|-------------|
 | **Student Name** | FASANMI DEMILADE DANIELSON |
-| **Matric Number** | 241203020 |
+| **Matric Number** | 241203014 |
 | **Department** | Data Science |
 | **Course Code** | COS 202 
 
@@ -158,6 +158,6 @@ Overall, the project demonstrates a solid understanding of Python fundamentals, 
 
 ## Author
 
-**Jimoh Victor Oluwole**  
+**FASANMI DEMILADE DANIELSON**  
 Department of Data Science  
-COS 202 – Computer Programming II
+COS 202
