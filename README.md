@@ -7,7 +7,7 @@
 | **Student Name** | Jimoh Victor Oluwole |
 | **Matric Number** | 241203020 |
 | **Department** | Data Science |
-| **Course Code** | COS 202 – Computer Programming II |
+| **Course Code** | COS 202 
 
 ---
 
