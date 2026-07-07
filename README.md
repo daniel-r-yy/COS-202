@@ -1,71 +1,80 @@
-COS 202 – Computer Programming II
+# COS 202 – Computer Programming II
 
-Python Projects: Scientific Calculator & CGPA Management System
+**Python Projects: Scientific Calculator & CGPA Management System**
 
-Student Name: Jimoh Victor Oluwole
-Matric Number: 241203020
-Department: Data Science
-Course Code: COS 202 – Computer Programming II
+| Details | Information |
+|---------|-------------|
+| **Student Name** | Jimoh Victor Oluwole |
+| **Matric Number** | 241203020 |
+| **Department** | Data Science |
+| **Course Code** | COS 202 – Computer Programming II |
 
 ---
 
-Project Description
+## Project Description
 
-This project contains two Python applications developed as part of the COS 202 coursework. The aim is to demonstrate the practical use of Python programming in solving mathematical computations and academic record calculations through interactive console-based applications.
+This project contains two Python applications developed as part of the COS 202 coursework. The aim is to demonstrate the practical use of Python programming in solving mathematical computations and academic performance tracking.
 
 Both programs are designed with simplicity, accuracy, and user-friendliness in mind while applying fundamental programming concepts.
 
 ---
 
-Project Objectives
+## Project Objectives
 
 The objectives of this project are to:
 
-- Apply Python programming concepts to real-life problems.
-- Develop interactive console applications.
-- Practice the use of functions, loops, and conditional statements.
-- Implement proper error handling for invalid user inputs.
-- Improve logical thinking and problem-solving skills.
+- ✓ Apply Python programming concepts to real-life problems
+- ✓ Develop interactive console applications
+- ✓ Practice the use of functions, loops, and conditional statements
+- ✓ Implement proper error handling for invalid user inputs
+- ✓ Improve logical thinking and problem-solving skills
 
 ---
 
-Project Files
+## Project Files
 
-1. calculator.py
+### 1. `calculator.py`
 
-A command-line calculator that performs common arithmetic operations, including:
+A command-line calculator that performs common arithmetic operations:
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Modulus
-- Exponent (Power)
+| Operation | Symbol |
+|-----------|--------|
+| Addition | `+` |
+| Subtraction | `-` |
+| Multiplication | `*` |
+| Division | `/` |
+| Modulus | `%` |
+| Exponent (Power) | `**` |
 
-The calculator is menu-driven, allowing users to perform multiple calculations until they choose to exit.
+**Features:**
+- Menu-driven interface
+- Multiple calculations in one session
+- User-friendly prompts
 
 ---
 
-2. cgpa_calculator.py
+### 2. `cgpa_calculator.py`
 
 This program computes a student's CGPA based on course scores and corresponding credit units.
 
-It automatically:
-
-- Determines letter grades
-- Assigns grade points
-- Calculates total quality points
-- Computes the final CGPA
-- Displays the student's degree classification
+**Automatically calculates:**
+- Letter grades from scores
+- Grade points per course
+- Total quality points
+- Final CGPA
+- Degree classification
 
 ---
 
-Key Features
+## Key Features
 
+✨ **Interactive Features:**
 - Interactive menu-based calculator
 - Easy-to-use command-line interface
 - Validation of user inputs
-- Protection against invalid operations such as division by zero
+- Protection against invalid operations (e.g., division by zero)
+
+📊 **CGPA System:**
 - Automatic grade assignment
 - Accurate CGPA calculation
 - Degree classification based on final CGPA
@@ -73,72 +82,82 @@ Key Features
 
 ---
 
-Grading Scale
+## Grading Scale
 
-Score (%)| Grade| Grade Point
-70 – 100| A| 5
-60 – 69| B| 4
-50 – 59| C| 3
-45 – 49| D| 2
-40 – 44| E| 1
-0 – 39| F| 0
+| Score Range (%) | Grade | Grade Point |
+|-----------------|-------|-------------|
+| 70 – 100        | A     | 5           |
+| 60 – 69         | B     | 4           |
+| 50 – 59         | C     | 3           |
+| 45 – 49         | D     | 2           |
+| 40 – 44         | E     | 1           |
+| 0 – 39          | F     | 0           |
 
 ---
 
-Project Structure
+## Project Structure
 
-COS202_Project/
+```
+COS-202/
 │
 ├── calculator.py
 ├── cgpa_calculator.py
 └── README.md
+```
 
 ---
 
-System Requirements
+## System Requirements
 
-- Python 3.8 or higher
-- Command Prompt, Terminal, or any Python IDE (VS Code, PyCharm, IDLE)
+- **Python:** 3.8 or higher
+- **Environment:** Command Prompt, Terminal, or any Python IDE
+  - VS Code
+  - PyCharm
+  - IDLE
 
 ---
 
-Running the Programs
+## Running the Programs
 
-Scientific Calculator
+### Scientific Calculator
 
+```bash
 python calculator.py
+```
 
-CGPA Calculator
+### CGPA Calculator
 
+```bash
 python cgpa_calculator.py
+```
 
 ---
 
-Programming Concepts Demonstrated
+## Programming Concepts Demonstrated
 
-The project makes use of several Python programming concepts, including:
+The project makes use of several Python programming concepts:
 
-- Functions
-- Variables and data types
-- User input and output
-- Conditional statements ("if", "elif", "else")
-- Loops ("while")
-- Arithmetic operations
-- Exception handling ("try" and "except")
-- Modular program organization
+- 🔧 **Functions** – Modular code organization
+- 📝 **Variables and data types** – Proper data handling
+- ⌨️ **User input and output** – Interactive interface
+- 🔀 **Conditional statements** – `if`, `elif`, `else`
+- 🔁 **Loops** – `while` loops for repeated operations
+- 🧮 **Arithmetic operations** – Mathematical computations
+- ⚠️ **Exception handling** – `try` and `except` blocks
+- 📦 **Modular program organization** – Clean code structure
 
 ---
 
-Conclusion
+## Conclusion
 
-This project highlights the practical application of Python programming in developing useful console-based applications. The Scientific Calculator simplifies everyday mathematical computations, while the CGPA Management System helps students evaluate their academic performance accurately.
+This project highlights the practical application of Python programming in developing useful console-based applications. The Scientific Calculator simplifies everyday mathematical computations, while the CGPA Calculator automates the grading process for academic performance tracking.
 
 Overall, the project demonstrates a solid understanding of Python fundamentals, logical problem-solving, and software development practices acquired during the COS 202 course.
 
 ---
 
-Author
+## Author
 
-Jimoh Victor Oluwole
-Department of Data Science
+**Jimoh Victor Oluwole**  
+Department of Data Science  
 COS 202 – Computer Programming II
